@@ -1,38 +1,33 @@
 # 👋 Hi, I'm Levon
 
-Driven Applied AI engineer with current interests in machine learning, AI-algorithms, and full-stack development. Passionate about using AI to solve real-world problems and make life a bit easier. 
+Fullstack + AI developer building multi-agent systems and RAG pipelines on GCP.
+Sales background turned builder.
+Passionate about learning and applying AI to real problems. This is just my attempt at doing so.
 
 ---
 
 ## 🚀 What I'm Working On
-- Building Neural Networks from scratch to understand how they work internally
-- Developing fully automated RAG-chatbot with booking, CRM-systems, sales and more
-- Developing full-stack Gym tracking app that automatically implements progressive-overload   
-- Exploring applied AI projects I can turn into real products
-
+- Building a **Voice-to-Action Agent** — real-time audio pipeline that extracts decisions, actions, and generates structured outputs from any conversation
+  
 ---
 
 ## 🧠 Skills & Technologies
-**Languages:**  
-Python, JavaScript, TypeScript, SQL, Dart
+**Languages:**
+Python, TypeScript, JavaScript, SQL
 
-**Tools & Frameworks:**  
-NumPy, Flask, Node.js, React, Next.js, Git, Docker, Hadoop, Flutter, Pytorch
+**Frameworks & Tools:**
+FastAPI, React, LangGraph, Pydantic AI, Docker, Git, PostgreSQL, PyTorch
 
-**Current Interests:**  
-Neural networks, RAG systems, Computer Vision & Vision Models,  applied AI.
+**Cloud & Infrastructure:**
+GCP (Cloud Run, Cloud Functions, Pub/Sub, Vertex AI)
 
+**Current Interests:**
+Multi-agent systems, RAG pipelines, applied AI
 ---
 
 ## 📚 What I'm Learning Right Now
 - Google Cloud Platform (GCP)  
-- Cloud deployments (Kubernetes, AWS basics)  
-
----
-
-## 📈 Goals for 2026
-- Launch my portfolio-page    
-- ~~Get a deeper understanding in Neural Networks~~
+- Cloud deployments (Kubernetes)  
 
 ---
 
